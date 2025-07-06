@@ -1,0 +1,4 @@
+/tour new [Gen 5] PU, Elimination,,,[Gen 5] PU AAA Twisted Dimension
+/tour rules Twisted Dimension Mod, DryPass Clause, !Obtainable Abilities, !Obtainable Misc, Ability Clause = 2, -Contrary, -Huge Power, -Illusion, -Imposter, -No Guard, -Pure Power, -Simple, -Speed Boost, -Wonder Guard, +Drought, +Sand Stream, -Curse, -Slaking, -Regigigas, -Iron Ball, -Power Lens, -Power Anklet, -Macho Brace, -Power Bracer, -Power Belt, -Power Weight, -Deep Sea Tooth, -Marowak, +Snow Warning, +Drizzle, -Solosis, -Duosion, -Baton Pass, -Light Clay, +PUBL, !Baton Pass Clause
+/tour autostart 10
+/tour autodq 6
