@@ -1,0 +1,4 @@
+/tour new [Gen 9] LC, Elimination,,,[Gen 9] STABmons Little Cup
+/tour rules STABmons Move Legality, -Dewpider, *Acupressure, *Astral Barrage, *Belly Drum, *Extreme Speed, *Fillet Away, *Gigaton Hammer, *Last Respects, *No Retreat, *Population Bomb, *Revival Blessing, *Shed Tail, *Shell Smash, *Shift Gear, *Spore, *Surging Strikes, *V-Create, *Victory Dance
+/tour autostart 10
+/tour autodq 7
