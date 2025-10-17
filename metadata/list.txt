@@ -146,6 +146,7 @@ gen9ilovemath
 gen9inhcup
 gen9inhrev
 gen9lcbh
+gen9lcmnmza
 gen9lcpokeaaa
 gen9lcscale
 gen9lcstab
