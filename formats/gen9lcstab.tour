@@ -1,4 +1,2 @@
 /tour new [Gen 9] LC, elim,,, [Gen 9] STABmons Little Cup
-/tour rules STABmons Move Legality, Terastal Clause, -Dewpider, -Zorua-Hisui, +Flittle, *Acupressure, *Astral Barrage, *Belly Drum, *Boomburst, *Extreme Speed, *Fillet Away, *Gigaton Hammer, *Last Respects, *No Retreat, *Population Bomb, *Revival Blessing, *Shed Tail, *Shell Smash, *Shift Gear, *Spore, *Surging Strikes, *V-Create, *Victory Dance, *Wicked Blow
-/tour autostart 10
-/tour autodq 7]
+/tour rules STABmons Move Legality, Terastal Clause, -Dewpider, -Joltik, -Shellder, -Zorua-Hisui, +Flittle, *Acupressure, *Astral Barrage, *Belly Drum, *Boomburst, *Dark Void, *Extreme Speed, *Fillet Away, *Gigaton Hammer, *Hypnosis, *Last Respects, *No Retreat, *Population Bomb, *Revival Blessing, *Shed Tail, *Shell Smash, *Shift Gear, *Sing, *Sleep Powder, *Spore, *Surging Strikes, *V-Create, *Victory Dance, *Wicked Blow, *Yawn
