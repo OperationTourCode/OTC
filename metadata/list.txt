@@ -187,6 +187,7 @@ gen9spcamo
 gen9spiritofgiving
 gen9stabaaa
 gen9stabdoubles
+gen9stabggforme
 gen9stabinh
 gen9stabmnm
 gen9stabreevo
