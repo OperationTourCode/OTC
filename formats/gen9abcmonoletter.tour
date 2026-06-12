@@ -1,0 +1,4 @@
+/tour new gen9nationaldex,elim,,,[Gen 9 National Dex] ABC Monoletter
+/tour rules Alphabet Cup Move legality, Same Letter Clause, CFZ Clause, +Darkrai, +Eternatus, +Landorus, +Lugia, +Naganadel, +Ogerpon-Hearthflame, +Ursaluna-Bloodmoon, +Urshifu, +Walking Wake, +Yveltal, +Zygarde, -Melmetal, *Belly Drum, *Bolt Beak, *Ceaseless Edge, *Dire Claw, *Fillet Away, *Fishious Rend, *Revival Blessing, *Sacred Fire, *Salt Cure, *Shell Smash, *Shift Gear, *Surging Strikes, *Tail Glow, *Triple Arrows, *V-Create
+/tour autostart 8
+/tour autodq 4
