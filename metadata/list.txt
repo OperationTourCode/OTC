@@ -172,7 +172,6 @@ gen9ndpokeconverge
 gen9ndstab
 gen9nsaaa
 gen9oldpokeaaa
-gen9ommotm
 gen9picaaa
 gen9pokeaaa
 gen9pokebh
@@ -209,3 +208,4 @@ gen9typechaos
 gen9ultramix
 gen9ungodlygift
 gen9yugioh
+ommotm
