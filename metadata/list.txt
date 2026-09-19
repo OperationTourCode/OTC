@@ -168,6 +168,7 @@ gen9mnmlc
 gen9ndaaa
 gen9ndaagsp
 gen9ndgg
+gen9ndmnm
 gen9ndpokeconverge
 gen9ndstab
 gen9nsaaa
@@ -208,4 +209,3 @@ gen9typechaos
 gen9ultramix
 gen9ungodlygift
 gen9yugioh
-ommotm
