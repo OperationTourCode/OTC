@@ -1,0 +1,4 @@
+/tour new [Gen 9] National Dex Godly Gift, Elimination,,,[Gen 9] Godly Boosted mons
+/tour rules badnboostedmod, revelationmonsmod, *Castform, *Extreme Speed, -Eviolite, *U-turn, *Volt Switch, -Deoxys-Defense, -Hoopa-Base, *Cyclizar, *Espeon, *Hoopa-Unbound, *Dragonair, *Dondozo, *Swampert-Mega, *Polteageist, -Water Bubble, Z Move Clause, *Boomburst, *Skarmory, *Spinda, *Breloom, +Dragapult, +Genesect, +Naganadel, +Shaymin-Sky, +Kangaskhan-Mega, +Kingambit, *Xerneas, *Koraidon, *Miraidon, *Aegislash, +Focus Band, +King's Rock, +Quick Claw, +Razor Fang, *Stored Power, +Chien-Pao, +Dialga-Origin, +Dracovish, +Groudon, +Metagross-Mega, +Mewtwo, Palkia, +Rayquaza, +Serperior, +Solgaleo, +Spectrier, +Ursaluna, +Zacian, -Gengar-Mega, +Hawlucha, *Groudon-Primal, *Pawmot
+/tour autostart 8
+/tour autodq 4
