@@ -172,6 +172,7 @@ gen9ndaaa
 gen9ndaagsp
 gen9ndgg
 gen9ndmnm
+gen9ndpokeaaa
 gen9ndpokeconverge
 gen9ndstab
 gen9nsaaa
